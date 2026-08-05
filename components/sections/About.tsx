@@ -75,7 +75,7 @@ export default function About() {
             <div className="mt-6 flex flex-wrap justify-center gap-5">
 
               <a
-                href="/Divyashree_Nagaraj_Resume.pdf"
+                href="/resume.pdf"
                 target="_blank"
                 className="flex items-center gap-3 rounded-xl bg-blue-600 px-8 py-4 font-semibold text-white transition hover:bg-blue-700"
               >

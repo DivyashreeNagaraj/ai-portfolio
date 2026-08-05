@@ -9,7 +9,6 @@ import {
   FaBriefcase,
   FaLaptopCode,
 } from "react-icons/fa";
-import FadeUp from "../ui/FadeUp";
 
 export default function About() {
   return (

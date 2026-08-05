@@ -1,36 +1,241 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 Divyashree Nagaraj | AI & Machine Learning Portfolio
 
-## Getting Started
+A modern, responsive personal portfolio showcasing my journey from **Software Automation Engineer** to **AI & Machine Learning Engineer**. This portfolio highlights my professional experience, AI projects, technical skills, education, and resume in an elegant and interactive interface.
 
-First, run the development server:
+> 🚀 Built with **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
+
+---
+
+## 🔗 Live Demo
+
+🌍 **Portfolio:** https://your-vercel-url.vercel.app
+
+---
+
+## ✨ Features
+
+- 🎯 Modern responsive design
+- 🤖 AI & Machine Learning focused portfolio
+- 💼 Professional experience timeline
+- 🚀 Featured AI projects
+- 🧠 Technical skills section
+- 🎓 Education section
+- 📄 Downloadable resume
+- 🔗 GitHub & LinkedIn integration
+- 📱 Mobile-friendly interface
+- ⚡ Smooth animations with Framer Motion
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+- Next.js 16
+- React 19
+- TypeScript
+- Tailwind CSS
+
+### UI & Animation
+
+- Framer Motion
+- React Icons
+- Lucide React
+
+### Development
+
+- ESLint
+- npm
+
+---
+
+## 📂 Project Structure
+
+```text
+ai-portfolio/
+│
+├── app/
+├── components/
+│   ├── layout/
+│   ├── sections/
+│   └── ui/
+│
+├── data/
+├── hooks/
+├── lib/
+├── public/
+│   └── resume.pdf
+│
+├── types/
+├── package.json
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/DivyashreeNagaraj/ai-portfolio.git
+```
+
+### Navigate into the project
+
+```bash
+cd ai-portfolio
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🏗 Build for Production
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run build
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Run the production server:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+npm start
+```
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📌 Sections Included
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- About
+- Featured Projects
+- Professional Experience
+- Technical Skills
+- Education
+- Contact
+- Resume Download
+
+---
+
+## 🚀 Featured Projects
+
+### Vision Pipeline
+
+Computer vision application built using **YOLO**, **OpenCV**, **FastAPI**, and **Docker** for object detection and image processing.
+
+### DocMind AI
+
+AI-powered document assistant using **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)** for intelligent document understanding.
+
+### Smart Farmer Assistant
+
+Conversational AI assistant developed using **Python**, **Rasa**, and **NLP** providing weather forecasts and agricultural recommendations.
+
+---
+
+## 💻 Technologies
+
+### Languages
+
+- Python
+- Java
+- SQL
+- TypeScript
+
+### Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- NLP
+- Prompt Engineering
+
+### Frameworks
+
+- FastAPI
+- Flask
+- OpenCV
+- Rasa
+- REST APIs
+
+### Software Engineering
+
+- Selenium
+- RestAssured
+- Postman
+- API Testing
+- QA Automation
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- Linux
+- Jira
+
+---
+
+## 📫 Connect With Me
+
+📧 Email
+
+**divyashreenagarajm@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/divyashree-nagaraj-9903351a8/
+
+💻 GitHub
+
+https://github.com/DivyashreeNagaraj
+
+🌐 Portfolio
+
+https://your-vercel-url.vercel.app
+
+---
+
+## 👩‍💻 About Me
+
+I am currently pursuing a **Master's in Artificial Intelligence** at **IU International University of Applied Sciences, Germany**.
+
+With **2+ years of professional software engineering experience**, I specialize in:
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Software Automation
+- Backend Development
+
+My goal is to build intelligent, scalable, and impactful AI applications that solve real-world problems.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+⭐ If you like this project, consider giving it a star!

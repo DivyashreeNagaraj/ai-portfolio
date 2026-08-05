@@ -1,7 +1,6 @@
 "use client";
 
 import { GraduationCap } from "lucide-react";
-import FadeUp from "../ui/FadeUp";
 
 const education = [
   {

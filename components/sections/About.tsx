@@ -107,7 +107,7 @@ export default function About() {
               </a>
 
               <a
-                href="https://www.linkedin.com/in/divyashree-nagaraj-9903351a8/"
+                href="https://www.linkedin.com/in/divyashree-nagaraj-m/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="rounded-xl bg-slate-900 p-4 transition hover:bg-blue-600"

@@ -52,7 +52,7 @@ export default function Contact() {
         {/* LinkedIn */}
 
         <a
-          href="https://www.linkedin.com/in/divyashree-nagaraj-9903351a8/"
+          href="https://www.linkedin.com/in/divyashree-nagaraj-m/"
           target="_blank"
           rel="noopener noreferrer"
           className="rounded-2xl border border-slate-800 bg-slate-900/40 p-8 text-center transition hover:border-blue-500 hover:-translate-y-1"

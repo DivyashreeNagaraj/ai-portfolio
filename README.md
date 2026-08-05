@@ -202,7 +202,7 @@ Conversational AI assistant developed using **Python**, **Rasa**, and **NLP** pr
 
 💼 LinkedIn
 
-https://www.linkedin.com/in/divyashree-nagaraj-9903351a8/
+https://www.linkedin.com/in/divyashree-nagaraj-m/
 
 💻 GitHub
 
@@ -210,7 +210,7 @@ https://github.com/DivyashreeNagaraj
 
 🌐 Portfolio
 
-https://your-vercel-url.vercel.app
+https://divyashree-nagaraj-portfolio.vercel.app/
 
 ---
 
